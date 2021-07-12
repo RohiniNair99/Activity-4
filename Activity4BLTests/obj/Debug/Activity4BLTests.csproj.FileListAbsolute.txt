@@ -1,0 +1,16 @@
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Activity4BLTests.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Activity4BLTests.pdb
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Activity4BL.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Activity4BL.pdb
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\obj\Debug\Activity4BLTests.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\obj\Debug\Activity4BLTests.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\obj\Debug\Activity4BLTests.csproj.CopyComplete
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\obj\Debug\Activity4BLTests.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BLTests\obj\Debug\Activity4BLTests.pdb

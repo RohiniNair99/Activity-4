@@ -1,0 +1,6 @@
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BL\bin\Debug\Activity4BL.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BL\bin\Debug\Activity4BL.pdb
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BL\obj\Debug\Activity4BL.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BL\obj\Debug\Activity4BL.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BL\obj\Debug\Activity4BL.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4BL\obj\Debug\Activity4BL.pdb

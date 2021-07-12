@@ -1,0 +1,10 @@
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\bin\Debug\Activity4.exe.config
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\bin\Debug\Activity4.exe
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\bin\Debug\Activity4.pdb
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\bin\Debug\Activity4BL.dll
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\bin\Debug\Activity4BL.pdb
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\obj\Debug\Activity4.csproj.AssemblyReference.cache
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\obj\Debug\Activity4.csproj.CoreCompileInputs.cache
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\obj\Debug\Activity4.csproj.CopyComplete
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\obj\Debug\Activity4.exe
+C:\Users\ROHINI NAIR\source\repos\Solution4\Activity4\obj\Debug\Activity4.pdb
